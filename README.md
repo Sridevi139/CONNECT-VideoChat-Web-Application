@@ -13,3 +13,7 @@ npm install
 npm run dev
 
 Go to localhost:3000
+
+Requirements :
+Make sure to have node.js installed 
+>  npm install cors express nodemon socket.io
